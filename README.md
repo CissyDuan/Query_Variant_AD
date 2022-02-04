@@ -9,4 +9,3 @@ link:https://pan.baidu.com/s/1QYrQf7dfoUbrMMC5RZUdLg  password:xzd9
 Checkpoint of Proposal Method:
 link:https://pan.baidu.com/s/1C_HPGywI2rgl4i5Ed1zHFg password:2tra
 
-I will release another version of the code for the data set mapped to the ID later.
